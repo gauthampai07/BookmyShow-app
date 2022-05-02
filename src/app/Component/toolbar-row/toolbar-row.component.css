@@ -1,0 +1,19 @@
+ li {
+    display:inline ;
+    padding: 10px;
+    text-decoration: none;
+    margin-top: 0;
+  }
+
+  a:link{
+    text-decoration: none;
+    background-color:  rgb(46, 1, 37);
+  color: white;
+
+  }
+  a:visited {
+  color: white;
+  }
+  .buzz {
+      margin-right: 330px;
+  }

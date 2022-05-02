@@ -1,0 +1,88 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,700;1,300&family=Roboto+Condensed&family=Teko&display=swap');
+
+
+.toolbar{
+ width: 1000px;
+ height: 60px;
+ display: inline;
+}
+.name {
+    display: inline;
+    color: white;
+    font-size: 18px;
+    font-family: Poppins ;
+    padding-left: 60px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: rgb(23, 16, 21); 
+    
+    
+}
+.searchbutton, .name, .searchbar, .{
+    display: inline-block;
+  
+   
+}
+  
+ .searchbar, .sign-in, .side-nav{
+    display: inline-block;
+  
+    background: #ccc;
+    margin: 0;
+  
+    background-color: rgb(23, 16, 21); 
+      
+}
+.searchbar input[type=text] {
+          display: inline-block;
+        border: 1px solid rgb(10, 10, 10); 
+                
+                left: 650px;
+                height: 35px;
+                width: 500px; 
+                border-radius: 00.3pc;   
+                margin-right: 300px; 
+                margin-left: 0%; 
+                padding: 0px;
+                left: 0;
+      }
+      .sign-in{
+        display: inline-block;
+          color: white;
+          background-color: red;
+          border-radius: 00.5pc;
+          padding: 2px;
+          font-size: medium;
+          
+          margin-right: 15px;
+          border-color: red;
+          width: 60px;
+          height: 30px;
+          font-size: 13px;
+          
+          
+      }
+
+.search{
+    border-radius: 0.3pc;
+    display: inline-block;
+
+
+
+}
+
+.side-nav{
+    display: inline-block ;
+    position: absolute;
+    padding-top: 2.3px;
+    padding-left: 15px;
+    color: white;
+}
+.searchbutton, .searchbar {
+      padding-right: 0;
+        content: "";
+        clear: both;
+       
+}
